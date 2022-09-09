@@ -1,0 +1,16 @@
+{
+    "name": "ramphor/post-columns",
+    "autoload": {
+        "psr-4": {
+            "Ramphor\\PostColumns\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "require": {},
+    "license": "MIT"
+}
